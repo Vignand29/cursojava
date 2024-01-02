@@ -1,0 +1,52 @@
+body {
+    padding-top: 2rem;
+    padding-bottom: 7rem;
+  }
+  
+  h3 {
+    margin-top: 2rem;
+  }
+  
+  .row {
+    margin-bottom: 10px;
+  }
+  .row .row {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  
+  
+  .estudiantes {
+    background-color: #d4d4d4;
+    margin: 0 10px;
+    text-align: center;
+    -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    -webkit-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+    font-family: "Kulim Park", sans-serif;
+  }
+  
+  img {
+    height: 100px;
+    width: 140px;
+  }
+  
+  button {
+    background: none;
+    border: none;
+    color: black;
+  }
+  button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+  }
+  p {
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  
